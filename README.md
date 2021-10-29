@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Luis Diaz
 - 👀 I’m interested in computing science, web development and Web Semantica
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on small web projects that will allow me to continue on my learning
+- 💞️ I’m looking to collaborate on small web projects that allow me to continue on my learning
+- ✨ I'm finishing systems engineering
+- 🤓 I consider myself good at programming, I have been doing it since I was 12 years old.
+- 🧩 I have a deep knowledge of Java programming language
 - 📫 How to reach me... contactme via discord Luis Diaz#9028
 
 <!---
